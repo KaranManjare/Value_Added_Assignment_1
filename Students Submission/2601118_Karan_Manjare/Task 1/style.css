@@ -78,7 +78,6 @@ body {
 .buttons {
     margin-top: 30px;
 }
-
 .start {
     background-color: blueviolet;
     color: white;
@@ -89,7 +88,6 @@ body {
     margin-right: 20px;
     cursor: pointer;
 }
-
 .view {
     background-color: white;
     color: blueviolet;
@@ -125,17 +123,14 @@ body {
     border-radius: 15px;
     box-shadow: 0 3px 8px ;
 }
-
 .card img {
     width: 67px;
     height: 67px;
 }
-
 .card h2 {
     font-size: 28px;
     margin-top: 15px;
 }
-
 .card p {
     font-size: 20px;
 }
